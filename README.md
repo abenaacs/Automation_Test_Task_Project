@@ -26,9 +26,7 @@ This project automates the process of scraping LinkedIn profiles, enriching the 
    cd Automation_Test_Task_Project
    ```
 
-````
 video guide: [video guide](https://www.awesomescreenshot.com/video/36088201?key=9693c9cba1f35e35ba3764ebac016f21)
-
 
 2. Create a `.env` file from `.env.example`:
    ```bash
@@ -91,4 +89,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ```
 
 ```
-````
